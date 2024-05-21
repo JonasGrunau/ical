@@ -11,5 +11,4 @@ dependencies:
   nanoid: ^1.0.0
 
 dev_dependencies:
-  dartclub_lint: ^1.0.0
   test: ^1.19.3
